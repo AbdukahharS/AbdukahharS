@@ -5,7 +5,7 @@
 ### SOFTWARE ENGINEER | WEB DEVELOPER
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdukahhar.uz-blue?style=for-the-badge&logo=google-chrome)](https://abdukahhar.uz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shahzod-kahhorov/))
 
 </div>
 
