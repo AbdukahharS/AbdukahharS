@@ -89,7 +89,7 @@ Banking sector agricultural monitoring platform with GIS-based field mapping, da
 Official documentation website for the Yarrow Map Web SDK.
 
 **Tech Stack:** Vue, i18n, TypeScript
-🔗 [Live Demo](https://yarrow-web-sdk-docs.netlify.app/)
+🔗 [Live Demo](https://sdk.yarrow.uz/)
 
 ### 🏥 Al-Dar Rehabilitation Clinic
 Frontend development for Al-Dar clinic's website.
@@ -134,16 +134,13 @@ Developing dynamic and static websites and designing templates based on orders f
 ## 📫 Get In Touch
 
 - 💼 Portfolio: [abdukahhar.uz](https://abdukahhar.uz)
-- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💌 Email: [shahzod@abdukahhar.uz](mailto:shahzod@abdukahhar.uz)
+- 🔗 LinkedIn: [linkedin.com/in/shahzod-kahhorov/](https://www.linkedin.com/in/shahzod-kahhorov/)
 - 📝 Blog: [blog.abdukahhar.uz](https://blog.abdukahhar.uz)
 
 ---
 
 <div align="center">
-
-### "No two things have been combined better than knowledge and patience."
-*- Prophet Muhammad (peace be upon him)*
 
 ⭐️ From [AbdukahharS](https://github.com/AbdukahharS)
 
